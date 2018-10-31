@@ -1,3 +1,8 @@
+# Pre-announcement items
+
+* Write on the board the Wi-Fi event attendee code (MSFT) and start time (6:30).
+* On project nights, and rearrange desks in pairs facing each other, to help people collaborate and network.
+
 # Welcome
 
 * Welcome and introduction. 
@@ -14,8 +19,10 @@
   * Web development, Django, Flask, web scraping
   * Learning Python, algorithms, programming
   * MC's choice
+* Mentors (if present)
 * Upcoming Events
 * Code of Conduct
+  * point out other organizers in the audience
 * Feedback and Suggestions.
   _"NYC Python is a group for you, so if you have ideas for event 
   nights or things to try for project nights, feedback, or questions,
